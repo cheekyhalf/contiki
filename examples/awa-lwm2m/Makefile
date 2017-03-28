@@ -41,7 +41,6 @@ APPS += tinydtls/aes tinydtls/sha2 tinydtls/ecc tinydtls
 
 CONTIKI_WITH_IPV6 = 1
 CONTIKI_WITH_RPL = 0
-USE_CA8210 = 1
 RESOLV_CONF_SUPPORTS_MDNS = 0
 UIP_CONF_TCP = 1
 TINYDTLS = 1
