@@ -1,7 +1,6 @@
 CONTIKI_PROJECT=awa-lwm2m
 CONTIKI=../..
 TARGET?=mikro-e
-PAN_ID=0xaaaa
 VERSION?=0.2.5
 
 ifeq ($(TARGET),micro-e)
